@@ -1,7 +1,7 @@
 docker pull aahaa2001/common_words
 ^^^^^^^^^^^^
 ||||||||||||
-docker image
+Docker Pull image
 -----------------------------------------------------
 https://hub.docker.com/r/aahaa2001/common_words
 ^^^^^^^^^^^^
